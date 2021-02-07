@@ -10,15 +10,15 @@ slug: /aboutme
 <br />
 
 
-# Publications
+## Publications
 
 
 __(2021.02) Authentication of Facial Images with Masks Using Periocular Biometrics__    <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-68452-5_34">Paper</a><br>
-Han N.Y. et al. In: Singh M., Kang DK., Lee JH., Tiwary U.S., Singh D., Chung WY. (eds) Intelligent Human Computer Interaction. IHCI 2020. Lecture Notes in Computer Science, vol 12616. Springer, Cham. 
+Na Yeon Han, Si Won Seong, Jihye Ryu, Hyeonsang Hwang, Jinoo Joung, Jeeghang Lee, and Eui Chul Lee. IHCI 2020. Lecture Notes in Computer Science, vol 12616. Springer, Cham.<br>
 
 
 __(2021.02) Screening Trauma Through CNN-Based Voice Emotion Classification__    <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-68449-5_21">Paper</a><br>
-Kim N.H., Kim S.E., Mok J.W., Yu S.G., Han N.Y., Lee E.C. In: Singh M., Kang DK., Lee JH., Tiwary U.S., Singh D., Chung WY. (eds) Intelligent Human Computer Interaction. IHCI 2020. Lecture Notes in Computer Science, vol 12615. Springer, Cham. 
+Na Hye Kim, So Eui Kim, Ji Won Mok, Su Gyeong Yu, Na Yeon Han, and Eui Chul Lee. IHCI 2020. Lecture Notes in Computer Science, vol 12615. Springer, Cham.<br>
 
 
 __(2020.10) 트라우마 초기 진단을 위한 음성 기반 감정 분류__<br>
@@ -46,7 +46,7 @@ __(2020.11) 딥러닝 기반 음성을 통한 트라우마 스크리닝 장치 �
 
 -------------------
 
-# Projects
+## Projects
 
 __(2020.02~08) 트라우마 초기 진단을 위한 음성 기반 감정 분류 방법__    <a href="https://github.com/HanNayeoniee/Trauma-Detector">GitHub</a><br>
 졸업 프로젝트<br>
