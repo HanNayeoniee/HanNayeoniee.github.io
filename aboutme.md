@@ -1,11 +1,10 @@
 ---
 layout: aboutme
-title: aboutme
+title: About Me
 slug: /aboutme
     
 ---
 
-프로젝트, 동아리 등의 모든 활동을 기술한 페이지. 
 <br />
 <br />
 
@@ -41,7 +40,7 @@ __(2021.02) 마스크 착용에 강인한 얼굴 인식 방법 및 시스템__<b
 
 __(2020.11) 딥러닝 기반 음성을 통한 트라우마 스크리닝 장치 및 방법__<br>
 졸업 프로젝트<br>
-`deeplearning` `u-net`<br>
+`deeplearning` `u-net`<br><br>
 
 
 -------------------
