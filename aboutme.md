@@ -42,11 +42,7 @@ __(2019.11~12) 블로그검색API 및 크롤링을 통한 OTT서비스 상위 �
 빅데이터분석 과목 개인 프로젝트<br>
 `BigData` `data analysis` `crawling` `API`
 
-__(2019.08~09) 시선 추적을 이용한 잠금 해제 시스템 개발__<br>
-HCI 학술 동아리 활동<br>
-`gaze tracking` `eye tracking`
-
-__(2019.06~10) 블록체인 기반 이력관리 시스템 개발__<br>
+__(2019.04~11) 블록체인 기반 이력관리 시스템 개발__  <a href="https://github.com/HanNayeoniee/smu_blockchain">GitHub<br>
 이브와 ict멘토링 사업. 장려상 수상(11.21)<br>
 `blockchain` `solidity` `dapp`
 
@@ -58,19 +54,16 @@ __(2019.03~05) 코세라 강의 수강 및 딥러닝 프로젝트(뼈 사진으�
 인공지능과 딥러닝 스터디<br>
 `deeplearning` `coursera`
 
-__(2019.01) 뇌파를 이용한 기부유도 시스템 개발__<br>
-특별학기 신경공학 과목 팀 프로젝트<br>
-`brain wave` `emotive epoc` `ERP` `p300`
+__(2019.01~02) 뉴로 마케팅을 이용한 광고 분석 프로그램__<br>
+교내 C.O.C 프로그램 5기<br>
+`brain wave` `emotive epoc` 
 
 ---------------
 ## 2018
 __(2018.08~09) 뇌파 힐링기__<br>
 뇌파를 이용해 사용자의 감정(+/-)을 판단하고 사용자의 감정을 긍정적인 방향으로 개선하기 위한 영상물 재생<br>
-교내 C.O.C프로그램 참가<br>
-`Brain Wave` `EEG`
-
-__(2018.07~2018.11) 특허출원: 대중교통 환승 정보를 제공하기 위한 시스템__<br>
-상명 LINC+ 발명페스티벌, 부트캠프 참여<br>
+교내 C.O.C 프로그램 4기<br>
+`brain wave` `EEG`
 
 -----------
 ## 2017
