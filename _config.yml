@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: nayeon2.han@gmail.com
       link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
@@ -34,7 +34,7 @@ footer:
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/HanNayeoniee
     - name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
     - name: RSS
