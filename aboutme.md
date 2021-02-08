@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title: About Me
+title: aboutme
 slug: /aboutme
     
 ---
