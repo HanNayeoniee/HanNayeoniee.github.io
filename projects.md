@@ -6,8 +6,6 @@ slug: /projects
 ---
 
 <br />
-<br />
-
 
 __(2020.02~08) 트라우마 초기 진단을 위한 음성 기반 감정 분류 방법__&nbsp;&nbsp;<a href="https://github.com/HanNayeoniee/Trauma-Detector">GitHub</a><br>
 졸업 프로젝트<br>
