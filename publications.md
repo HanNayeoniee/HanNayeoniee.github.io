@@ -6,8 +6,6 @@ slug: /publications
 ---
 
 <br />
-<br />
-
 
 __(2021.02) Authentication of Facial Images with Masks Using Periocular Biometrics__&nbsp;&nbsp;<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-68452-5_34">Paper</a><br>
 Na Yeon Han, Si Won Seong, Jihye Ryu, Hyeonsang Hwang, Jinoo Joung, Jeeghang Lee, and Eui Chul Lee. IHCI 2020. Lecture Notes in Computer Science, vol 12616. Springer, Cham.<br><br>
@@ -24,11 +22,11 @@ __(2020.10) 트라우마 초기 진단을 위한 음성 기반 감정 분류__&n
 
 __(2019.09) 2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석__&nbsp;&nbsp;<a href="https://drive.google.com/file/d/10UAreyuKZr1FtqXi0Fm-uuFV7ePnN_V4/view?usp=sharing">Paper</a><br>
 김소현, 김나혜, 이지민, 한나연, 이의철. (2019). 예술인문사회 융합 멀티미디어 논문지, 9(9), 765-773.<br><br>
-`미세먼지` `미세먼지 센서` `광 산란 방식` `습도` `sk 팩토리얼 설계`<br>
+`미세먼지` `미세먼지 센서` `광 산란 방식` `습도` `sk 팩토리얼 설계`<br><br>
 
 
 -------------------
-
+<br/>
 
 ## Patents
 
