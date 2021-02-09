@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-#     - name: About Me
-    - name: aboutme
+    - name: AboutMe
+#     - name: aboutme
     - name: Blog
 
 footer:
