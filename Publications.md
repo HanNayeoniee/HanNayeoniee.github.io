@@ -1,14 +1,12 @@
 ---
-layout: aboutme
-title: About Me
-slug: /aboutme
+layout: Publications
+title: Publications
+slug: /Publications
     
 ---
 
 <br />
 <br />
-
-## helloooooooooooooo
 
 
 ## Publications
