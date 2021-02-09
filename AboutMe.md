@@ -1,5 +1,5 @@
 ---
-layout: AboutMe
+layout: aboutme
 title: About Me
 slug: /aboutme
     
