@@ -13,7 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: AboutMe
+#     - name: AboutMe
+    - name: Publications
+    - name: Projects
 #     - name: aboutme
     - name: Blog
 
