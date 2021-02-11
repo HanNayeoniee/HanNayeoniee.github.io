@@ -22,7 +22,7 @@ __(2019.04~11) 블록체인 기반 이력관리 시스템 개발__&nbsp;&nbsp;<a
 `blockchain` `solidity` `dapp`<br>
 
 
-__(2019.04~06) '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석'저널 투고__&nbsp;&nbsp;<a href="https://drive.google.com/file/d/10UAreyuKZr1FtqXi0Fm-uuFV7ePnN_V4/view?usp=sharing">Paper</a><br>
+__(2019.04~06) '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석' 투고__&nbsp;&nbsp;<a href="https://drive.google.com/file/d/10UAreyuKZr1FtqXi0Fm-uuFV7ePnN_V4/view?usp=sharing">Paper</a><br>
 교내 학부생 전공심화 연구소모임. 통합성과발표대회 SM-URP부문 장려상 수상(12.05)<br>
 `factorial analysis`<br>
 
